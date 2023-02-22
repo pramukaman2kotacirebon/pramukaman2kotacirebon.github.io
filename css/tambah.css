@@ -1,0 +1,48 @@
+.tombol {
+  background-image: linear-gradient(
+    to right,
+    #ffffff 0%,
+    #ff0000 51%,
+    #ffffff 100%
+  );
+  padding: 6px 30px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 2em;
+  display: block;
+}
+
+.tombol:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+.tombol2 {
+  background-image: linear-gradient(
+    to right,
+    #d31027 0%,
+    #ffcece 51%,
+    #d31027 100%
+  );
+  margin: 10px;
+  padding: 5px 30px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 2em;
+}
+
+.tombol2:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+p {
+  text-align: justify;
+}
