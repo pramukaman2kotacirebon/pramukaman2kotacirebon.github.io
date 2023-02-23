@@ -46,3 +46,35 @@
 p {
   text-align: justify;
 }
+
+.fa-brands {
+  padding: 0.8em;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border: 1px solid #ffffff;
+  color: #eee;
+  font-size: 1em;
+  border-radius: 3em;
+}
+
+.fa-brands:hover {
+  background: #ffffff;
+  color: #d31027;
+}
+
+.fa-solid {
+  padding: 0.8em;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color: #eee;
+  font-size: 1em;
+  border-radius: 3em;
+  border: 1px solid #ffffff;
+}
+
+.fa-solid:hover {
+  background: #ffffff;
+  color: #d31027;
+}
